@@ -3,7 +3,7 @@ Hey, my name is Kim!
 
 Current Project:
 
-Product Owner, C# coder for [Robohitman](https://github.com/jamktiko/robohitman), @ [Itch.io](https://tarinataikomo.itch.io/robohitman)
+Product Owner and C# coder for [Robohitman](https://github.com/jamktiko/robohitman), @ [Itch.io](https://tarinataikomo.itch.io/robohitman)
 
 Previous Projects:
 
