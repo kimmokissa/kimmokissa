@@ -3,9 +3,9 @@ Hey, my name is Kim!
 
 Current Project:
 
-Product Owner and C# coder for [Robohitman](https://github.com/jamktiko/robohitman), @ [Itch.io](https://tarinataikomo.itch.io/robohitman)
 
 Previous Projects:
+Product Owner and C# coder for [Robohitman](https://github.com/jamktiko/robohitman), @ [Itch.io](https://tarinataikomo.itch.io/robohitman)
 
 <!---
 kimmokissa/kimmokissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
